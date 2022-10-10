@@ -40,9 +40,6 @@ hr{
   margin-bottom:100px
 }
 
-p{
-  font-weight: 800;
-}
 
 
 .Me{
@@ -54,6 +51,7 @@ p{
   text-align: left;
   line-height: 2;
   font-size: 1rem;
+  font-weight: 800
 }
 .top-container{
     background-color: #DFF6FF;
@@ -98,7 +96,7 @@ p{
   margin:100px auto 100px auto;
   text-align: left;
   line-height: 2;
-  font-weight: 1000;
+  font-weight: 800;
 
 }
 
